@@ -1,3 +1,3 @@
 print('HI')
-print('Hi')
+print('new images')
 print("new values")
